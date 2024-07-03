@@ -1,5 +1,5 @@
 # TrabalhoPraticoSD
-Trabalho prático da matéria de sistemas distribuídos 24.1
+Trabalho prático da matéria de sistemas distribuídos 
 * Algoritmo de exclusão mútua
 * Algoritmo de sequenciador fixo
 
